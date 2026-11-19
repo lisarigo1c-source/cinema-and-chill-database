@@ -40,7 +40,6 @@ The design documents the use of **primary keys**, **foreign keys**, and **refere
 ## Project materials
 
 - [Project presentation (PDF)](presentation.pdf) – Slides covering the case study, data modelling, normalisation, data import, and EER diagram.
-- [Original PowerPoint presentation](presentation.pptx) – Editable presentation created for the group project.
 - [Data notes](data/README.md) – Description of the fictional example data and availability.
 
 ## Reproducibility and scope
